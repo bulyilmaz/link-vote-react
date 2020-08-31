@@ -2,7 +2,7 @@
 
 ## Installation
 
-First clone this repository.
+First clone this repository. 
 
 ```bash
 git clone https://github.com/bulyilmaz/link-vote-react.git
